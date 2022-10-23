@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+## How to Make NFTs with On-Chain Metadata Alchemy University
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+In this repo we have code for deploying NFTs on blockchain and storing their data onchain. As the onchain transaction are costly we have deployed this smart contract on Polygon's Mumbai Testnet.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Contract Address :- 
+0x37B8B23C7e9a33195F00e045d6d587aeBa374484
